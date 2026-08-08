@@ -93,10 +93,6 @@ The dashboard uses **Power Pivot, DAX, PivotTables, PivotCharts, and interactive
 3. Go to the **Dashboard** sheet.
 4. Use the slicers to interact with the analysis.
 
-📥 Download Excel Dashboard
-
-Download the Excel Dashboard
-
 ---
 
 ## 👤 Author
