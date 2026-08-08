@@ -1,6 +1,6 @@
 #  Decathlon Sales Dashboard
 
-An interactive **Excel Sales Analytics Dashboard** built using a dataset of **30,000 orders** to analyse sales, customers, products, profitability, and business performance.
+An interactive **Excel Sales Analytics Dashboard** built using a dataset of **30,000 orders** to analyse sales, customers, products, and business performance.
 
 > **Tools:** Excel • Power Pivot • DAX • PivotTables • PivotCharts • Slicers
 
@@ -92,6 +92,10 @@ The dashboard uses **Power Pivot, DAX, PivotTables, PivotCharts, and interactive
 2. Open it in **Microsoft Excel**.
 3. Go to the **Dashboard** sheet.
 4. Use the slicers to interact with the analysis.
+
+📥 Download Excel Dashboard
+
+Download the Excel Dashboard
 
 ---
 
